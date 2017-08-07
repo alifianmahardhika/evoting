@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 04, 2017 at 03:52 AM
+-- Generation Time: Aug 07, 2017 at 08:13 AM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 7.1.7
 
@@ -30,7 +30,6 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `candidatedb` (
   `id` int(255) NOT NULL,
-  `fpIndex` int(1) NOT NULL,
   `residenceID` int(255) NOT NULL,
   `houseNumber` varchar(255) NOT NULL,
   `name` varchar(500) NOT NULL,
@@ -40,10 +39,8 @@ CREATE TABLE `candidatedb` (
   `constituency` varchar(255) NOT NULL,
   `gewog` varchar(255) NOT NULL,
   `village` varchar(255) NOT NULL,
-  `pollingStation` varchar(255) NOT NULL,
   `photo` mediumblob NOT NULL,
-  `fingerPrintTemplate` longtext NOT NULL,
-  `voteStatus` int(1) NOT NULL
+  `voteCount` int(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -94,7 +91,7 @@ ALTER TABLE `voterdb`
 -- AUTO_INCREMENT for table `candidatedb`
 --
 ALTER TABLE `candidatedb`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `voterdb`
 --
