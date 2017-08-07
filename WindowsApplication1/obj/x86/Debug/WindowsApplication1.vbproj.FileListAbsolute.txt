@@ -1,0 +1,112 @@
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Hendry Mac\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Hendry Mac\Documents\FlexCodeSDK MySQL\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Hendry Mac\Documents\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\Hendry Mac\Documents\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Hendry Mac\Documents\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Hendry Mac\Documents\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Hendry Mac\Documents\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Download\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\karch\Downloads\FlexCodeSDK - MySQL VBNet\FlexCodeSDK - MySQL VBNet\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Project Fingerprint\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Project Fingerprint\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\Project Fingerprint\WindowsApplication1\bin\Debug\MySql.Data.xml
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.xml
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\#Alifian Projects\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.xml
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\Project Fingerprint\Main Program\WindowsApplication1\bin\Debug\MySql.Data.xml
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
