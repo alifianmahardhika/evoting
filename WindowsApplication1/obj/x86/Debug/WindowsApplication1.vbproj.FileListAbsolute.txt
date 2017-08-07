@@ -110,3 +110,20 @@ E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApp
 E:\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
 E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
 E:\#Alifian Projects\2017\Project Fingerprint\Main Program\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\evoting-master\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Project Fingerprint\evoting-master\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\evoting-master\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\Project Fingerprint\evoting-master\WindowsApplication1\bin\Debug\MySql.Data.xml
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\Interop.FlexCodeSDK.dll
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Project Fingerprint\evoting-master\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

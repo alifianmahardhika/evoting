@@ -66,7 +66,7 @@ Public Class Form1
         fileStream.Close()
         sqlCommand.Connection = myDB
         sqlCommand.CommandType = CommandType.Text
-        sqlCommand.CommandText = "INSERT INTO voterdb(houseNumber,residenceID,name,sex,dateOfBorn,dzongkhag,constituency,gewog,village,pollingStation,fingerPrintTemplate,fpIndex,voteStatus,photo) VALUES('" & voterHouseNumber.Text & "','" & voterNationalId.Text & "','" & voterName.Text & "','" & voterDob.Value.ToString("yyyy-MM-dd") & "','" & voterDzongkhag.Text & "','" & voterConstituency.Text & "','" & voterGewog.Text & "','" & voterVillage.Text & "','" & voterPollingStation.Text & "','" & Template & "', '1', '0', @voterPhotoData)"
+        sqlCommand.CommandText = "INSERT INTO voterdb(houseNumber,residenceID,name,sex,dateOfBorn,dzongkhag,constituency,gewog,village,pollingStation,fingerPrintTemplate,fpIndex,voteStatus,photo) VALUES('" & voterHouseNumber.Text & "','" & voterNationalId.Text & "','" & voterName.Text & "','" & voterSex.Text & "','" & voterDob.Value.ToString("yyyy-MM-dd") & "','" & voterDzongkhag.Text & "','" & voterConstituency.Text & "','" & voterGewog.Text & "','" & voterVillage.Text & "','" & voterPollingStation.Text & "','" & Template & "', '1', '0', @voterPhotoData)"
         sqlCommand.Parameters.AddWithValue("@voterPhotoData", arrImage)
         sqlCommand.ExecuteNonQuery()
         myDB.Close()

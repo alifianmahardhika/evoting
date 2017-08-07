@@ -45,7 +45,9 @@ Public Class Form2
             readDB2.Read()
 
             TextBox1.Text = TextBox1.Text & vbNewLine & "ID: " & voterID & ", Name: " & readDB2.GetString(4) & ", Finger Index: " & Str(fpIndex)
-            Dim url As String = "http://localhost/bhutanelection/index.php?id='" & voterID & "'"
+            Dim refID As String = voterID.ToString
+            Dim url As String = "http://localhost/fingerprint/index.php?id=" & refID
+            Process.Start(url)
             voterID = ""
             readDB2.Close()
 
